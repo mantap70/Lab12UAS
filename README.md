@@ -5,7 +5,7 @@ Game Store adalah aplikasi web sederhana untuk menampilkan daftar game beserta c
 ✅ Login menggunakan Session <br>
 ✅ Role Based Access <br>
 - Admin: CRUD Game
-- User: hanya melihat daftar game
+- User: hanya melihat daftar game <br>
   ✅ CRUD Game (Admin)
 - Create (Tambah Game)
 - Read (Tampil daftar Game)
@@ -89,3 +89,29 @@ Akses CRUD dibatasi dengan role admin menggunakan pengecekan session pada contro
 * Kelas: TI.24.A3
 
 Link YouTube : https://youtu.be/RYOct2aWQV8
+
+# Screenshot
+### Halaman Home (User)
+![I](img-ss/user-view.png)
+### Halaman Home (Admin)
+![I](img-ss/admin-view.png)
+### Tambah Game (Admin)
+![I](img-ss/add.png)
+### Edit Game (Admin)
+![I](img-ss/edit.png)
+### Delete Game (Admin)
+![I](img-ss/delete.png)
+### Halaman Login
+![I](img-ss/login.png)
+### Pagination
+Halaman 1 <br>
+![I](img-ss/pagination1.png)
+Halaman 2 <br>
+![I](img-ss/pagination2.png)
+### Database
+Tabel
+![I](img-ss/database.png)
+Tabel Games
+![I](img-ss/games-table.png)
+Tabel User
+![I](img-ss/user-table.png)
